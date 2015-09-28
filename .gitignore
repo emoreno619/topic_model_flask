@@ -1,1 +1,3 @@
-topic_mode_150_stopworded/
+/topic_model_150_stopworded/
+*.ini
+*.bin
