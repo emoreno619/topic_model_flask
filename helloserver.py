@@ -14,6 +14,11 @@ import graphlab as gl
 from graphlab import SArray
 # from flask import url_for, redirect
 
+# corpus = ''
+# for c in documents:
+#	corpus += c if ord(c) < 128
+
+# ''.join([ c for c in word if ord(c) < 128 ])
 
 def createSArray(arr):
 	return SArray(arr)
