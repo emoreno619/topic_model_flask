@@ -11,7 +11,6 @@ Django==1.8.4
 docutils==0.12
 Flask==0.10.1
 GraphLab-Create==1.5.2
-GraphLab-Create-License==1.5.2
 ipdb==0.8.1
 ipykernel==4.0.3
 ipython==4.0.0
