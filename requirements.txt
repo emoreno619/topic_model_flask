@@ -30,7 +30,6 @@ nbconvert==4.0.0
 nbformat==4.0.0
 nltk==3.0.5
 notebook==4.0.4
-path.py==0.0.0
 pexpect==3.3
 pickleshare==0.5
 prettytable==0.7.2
