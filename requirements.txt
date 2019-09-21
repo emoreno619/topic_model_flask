@@ -24,7 +24,7 @@ jupyter-client==4.0.0
 jupyter-core==4.0.4
 librato-metrics==0.4.9
 MarkupSafe==0.23
-mistune==0.7.1
+mistune==0.8.1
 mixpanel-py==3.1.1
 multipledispatch==0.4.8
 nbconvert==4.0.0
