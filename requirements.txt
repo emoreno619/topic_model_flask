@@ -49,5 +49,5 @@ sseclient==0.0.8
 terminado==0.5
 tornado==4.1
 traitlets==4.0.0
-Werkzeug==0.10.4
+Werkzeug==0.15.3
 wheel==0.26.0
