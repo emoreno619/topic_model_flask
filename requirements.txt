@@ -31,7 +31,7 @@ nbconvert==4.0.0
 nbformat==4.0.0
 nltk==3.0.5
 notebook==4.0.4
-numpy==1.9.3
+numpy==1.21.0
 pexpect==3.3
 pickleshare==0.5
 prettytable==0.7.2
